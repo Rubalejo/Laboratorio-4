@@ -36,6 +36,8 @@ Realizar el circuito indicado y usar el Metodo del Teorema de Superposición en 
 
 ![image](https://user-images.githubusercontent.com/105680588/176675554-d0b6de98-f04c-47f8-9c4b-d64ccb6db7b6.png)
 
+![image](https://user-images.githubusercontent.com/105680588/176680310-01844877-d79a-4303-86a0-43ceaab42958.png)
+
 ![image](https://user-images.githubusercontent.com/105680588/176580131-4a31d69f-5982-473a-9ac0-2d6ddd363390.png)
 
 **4.4.2 Con las dos fuentes conectados, mida de voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas mediaciones en la tabla 4.1 y 4.2 respectivamente.**
