@@ -16,7 +16,7 @@ Realizar el circuito indicado y usar el Metodo del Teorema de Superposición en 
 
 **OBJETIVO ESPECIFICO:**
 
-
+* Utilizar el Metodo del Teorema de Superposición para poder calcular El voltaje y la corriente del circuito.
 
 **4.2 MARCO TEORICO**
 
@@ -36,16 +36,18 @@ Realizar el circuito indicado y usar el Metodo del Teorema de Superposición en 
 
 4.4.2 Con las dos fuentes conectados, mida de voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas mediaciones en la tabla 4.1 y 4.2 respectivamente.
 
-4.4.3 Haga "Cero" la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de los mediciones en la tabla 4.1 y 4.2 respectivamente.
+![image](https://user-images.githubusercontent.com/105680588/176599703-dae16705-36de-4d91-9f81-e2f3067572a3.png)
 
-4.4.4 Haga "Cero" la fuente de voltaje de 20 V (V1) y mida de voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de la mediaciones en la tabla 4.1 y 4.2 respectivamente.
+![image](https://user-images.githubusercontent.com/105680588/176599744-9364ad16-e7f9-467c-abc9-9f596fcbb95a.png)
 
-4.4.5 Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente.
 
 4.5 Video
 
+https://www.youtube.com/watch?v=A2Maq2HoMtw
+
 4.6 Conclusiones
 
+* Se determino con el analisis de superposición las corrientes y el voltajes con la ayuda de nuestro circuitos fisica se puedo determinar las diferencias que hay con el circuito de la plataforma de tinkercad y asi poder llevar una mejor exactitud de los valores que nos arroja cada uno.
 
 
 4.7 Bibliografía
