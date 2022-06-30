@@ -30,27 +30,30 @@ Realizar el circuito indicado y usar el Metodo del Teorema de Superposición en 
 
 **4.4 PROCEDIMIENTO**
 
-4.4.1 Arme del circuito que se muestra en la figura 4.1.
+**4.4.1 Arme del circuito que se muestra en la figura 4.1.**
+
+![image](https://user-images.githubusercontent.com/105680588/176675409-55f618b2-a8c7-4556-9633-d2de5a576020.png)
+
 
 ![image](https://user-images.githubusercontent.com/105680588/176580131-4a31d69f-5982-473a-9ac0-2d6ddd363390.png)
 
-4.4.2 Con las dos fuentes conectados, mida de voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas mediaciones en la tabla 4.1 y 4.2 respectivamente.
+**4.4.2 Con las dos fuentes conectados, mida de voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en las tablas mediaciones en la tabla 4.1 y 4.2 respectivamente.**
 
 ![image](https://user-images.githubusercontent.com/105680588/176599703-dae16705-36de-4d91-9f81-e2f3067572a3.png)
 
+![image](https://user-images.githubusercontent.com/105680588/176675554-d0b6de98-f04c-47f8-9c4b-d64ccb6db7b6.png)
+
 ![image](https://user-images.githubusercontent.com/105680588/176599744-9364ad16-e7f9-467c-abc9-9f596fcbb95a.png)
 
-
-4.5 Video
+**4.5 Video**
 
 https://www.youtube.com/watch?v=A2Maq2HoMtw
 
-4.6 Conclusiones
+**4.6 Conclusiones**
 
 * Se determino con el analisis de superposición las corrientes y el voltajes con la ayuda de nuestro circuitos fisica se puedo determinar las diferencias que hay con el circuito de la plataforma de tinkercad y asi poder llevar una mejor exactitud de los valores que nos arroja cada uno.
 
-
-4.7 Bibliografía
+**4.7 Bibliografía**
 
 Circuitos Eléctricos. James W. Nilson. Cuarta edición. Addison-Wesley Iberoamericana.
 Física Vol. II Campos y ondas. Marcelo Alonso, Edward J. Finn. Fondo Educativo Interamericano, S.A.
