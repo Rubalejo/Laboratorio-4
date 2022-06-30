@@ -46,6 +46,10 @@ Realizar el circuito indicado y usar el Metodo del Teorema de Superposición en 
 
 ![image](https://user-images.githubusercontent.com/105680588/176599744-9364ad16-e7f9-467c-abc9-9f596fcbb95a.png)
 
+4.4.1  Haga "Cero" la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, respetando la polariddad del voltaje como el sentido de la corriente que se proporcionan.
+
+![image](https://user-images.githubusercontent.com/105680588/176688851-cd8b8266-b146-425c-ad3a-1c9cdf2cf3be.png)
+
 **4.5 Video**
 
 https://www.youtube.com/watch?v=A2Maq2HoMtw
