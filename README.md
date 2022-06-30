@@ -50,6 +50,10 @@ Realizar el circuito indicado y usar el Metodo del Teorema de Superposición en 
 
 ![image](https://user-images.githubusercontent.com/105680588/176688851-cd8b8266-b146-425c-ad3a-1c9cdf2cf3be.png)
 
+4.4.2 Haga "Cero" la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediaciones en la tabla 4.1 y 4.2 respectivamente.
+
+![image](https://user-images.githubusercontent.com/105680588/176690788-fbd535b0-c66e-4d88-bd8d-95c77d9c6fb6.png)
+
 **4.5 Video**
 
 https://www.youtube.com/watch?v=A2Maq2HoMtw
